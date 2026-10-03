@@ -108,7 +108,7 @@ A frontend project built using HTML, CSS and JavaScript with a focus on responsi
 ## 📫 Connect With Me
 
 - GitHub: [@soumya7327](https://github.com/soumya7327)
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: [Soumyaranjan Jena](https://www.linkedin.com/in/soumyaranjan-jena-16b930321)
 
 ---
 
